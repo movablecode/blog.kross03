@@ -2,9 +2,10 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          KROSS
 paginate:       5
-baseurl:        "/tale"
+#baseurl:        "/tale"
+#baseurl:        "/"
 url:            "https://chesterhow.github.io"
 
 # Assets
@@ -17,15 +18,16 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
+  name:         KROSS
+  url:          http://90days.kr/
+  email:        27@kross.kr
 
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/chesterhow/tale
+  repo:         https://github.com/movablecode/blog.kross03
 
 # Gems
 plugins:
   - jekyll-paginate
+
