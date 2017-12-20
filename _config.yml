@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          KROSS
 paginate:       5
 #baseurl:        "/tale"
-#baseurl:        "/"
+baseurl:        "/blog.kross03"
 url:            "https://movablecode.github.io/blog.kross03"
 
 # Assets
